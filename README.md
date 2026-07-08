@@ -1,8 +1,6 @@
 ### Pranjal
 
-AI undergrad at NTU Singapore. Mostly interested in low-latency systems and
-applied ML. I like projects where I can benchmark the thing and see if it
-actually got faster or better, so most of my repos have numbers in them.
+AI undergraduate at NTU Singapore. Interested in systems programming, performance engineering, and applied ML. I like benchmarking my projects to check if changes actually helped, so most of my repos have numbers behind them. 
 
 **Stuff I've built**
 
@@ -19,5 +17,5 @@ actually got faster or better, so most of my repos have numbers in them.
 
 **I use:** C++, Python, TypeScript, FastAPI, React, Docker
 
-Open to SWE roles in trading infrastructure, ML, or real-time systems. 
+Open to roles in software engineering, systems, and machine learning. 
 Reach me at [LinkedIn](https://www.linkedin.com/in/pranjal-kumar-46700a307/).
