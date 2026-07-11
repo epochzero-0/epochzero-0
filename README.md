@@ -8,6 +8,11 @@ AI undergraduate at NTU Singapore. Interested in systems programming, performanc
   price-time-priority matching engine in C++20. Started as a learning project,
   ended up spending most of the time getting heap allocations out of the hot
   path and profiling the difference.
+  **[relay](https://github.com/epochzero-0/relay)** - resumable batch-inference
+  orchestrator behind one provider interface (OpenAI, Anthropic, Google). A crash
+  resumes in-flight jobs instead of re-charging you; a multi-pass loop keeps
+  retrying until it proves full coverage. Stdlib-only, exactly-once under
+  injected crash tests.
 - **[doc-intel-api](https://github.com/epochzero-0/doc-intel-api)** - RAG
   backend with FastAPI and pgvector. Async ingestion, multi-tenant auth,
   answers cite their sources so you can check them.
