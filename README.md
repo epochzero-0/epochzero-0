@@ -7,7 +7,7 @@ AI undergraduate at NTU Singapore. Interested in systems programming, performanc
 - **[limit-order-book](https://github.com/epochzero-0/limit-order-book)** -
   price-time-priority matching engine in C++20. Spent most of the time getting
   heap allocations out of the hot path and profiling the difference.
-- **[relay](https://github.com/epochzero-0/relay)** - rresumable batch-inference
+- **[relay](https://github.com/epochzero-0/relay)** - resumable batch-inference
   orchestrator for LLM APIs. Crashes resume instead of re-charging you, nothing
   gets processed twice.
 - **[doc-intel-api](https://github.com/epochzero-0/doc-intel-api)** - RAG
