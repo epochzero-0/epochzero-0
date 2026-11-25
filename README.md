@@ -5,11 +5,12 @@ AI undergraduate at NTU Singapore. Interested in systems programming, performanc
 **Stuff I've built**
 
 - **[fast-matmul](https://github.com/epochzero-0/fast-matmul)** - one matrix multiply written eight times, from a naive triple loop up to CUDA shared-memory tiles. Two of my early conclusions turned out to be measurement bugs.
+- **[casehold-lora](https://github.com/epochzero-0/casehold-lora)** - a small LLM fine-tuned to pick which ruling a US court opinion was citing, with the LoRA written by hand in PyTorch. It's scored on the benchmark's own test split, so you can hold it against the published table.
 - **[relay](https://github.com/epochzero-0/relay)** - resumable batch-inference orchestrator for LLM APIs. Crashes resume instead of re-charging you, nothing gets processed twice.
 - **[doc-intel-api](https://github.com/epochzero-0/doc-intel-api)** - RAG backend with FastAPI and pgvector. Async ingestion, multi-tenant auth, answers cite their sources so you can check them.
 - **[sonar-text](https://github.com/epochzero-0/sonar-text)** - speech intelligence platform, .NET + Python microservices with Prometheus/Grafana for monitoring.
 
-**I use:** C++, CUDA, Python, TypeScript, FastAPI, React, Docker
+**I use:** C++, CUDA, Python, PyTorch, TypeScript, FastAPI, React, Docker
 
 Open to roles in software engineering, systems, and machine learning. 
 Reach me at [LinkedIn](https://www.linkedin.com/in/pranjal-kumar-46700a307/).
